@@ -1,0 +1,225 @@
+Team1,Team2,Result,goalDiff,extraTime,team1Odd,tieOdd,team2Odd,year,isPlayoffs
+Italy,France,X,0,FALSE,154,181,224,2006,TRUE
+Germany,Portugal,Germany,2,FALSE,-114,241,330,2006,TRUE
+Portugal,France,France,-1,FALSE,292,186,120,2006,TRUE
+Germany,Italy,Italy,-2,TRUE,146,189,227,2006,TRUE
+Brazil,France,France,-1,FALSE,-133,241,399,2006,TRUE
+England,Portugal,X,0,FALSE,110,199,300,2006,TRUE
+Italy,Ukraine,Italy,3,FALSE,-175,248,594,2006,TRUE
+Germany,Argentina,X,0,FALSE,150,206,199,2006,TRUE
+Spain,France,France,-2,FALSE,137,200,221,2006,TRUE
+Brazil,Ghana,Brazil,3,FALSE,-370,441,934,2006,TRUE
+Switzerland,Ukraine,X,0,FALSE,137,211,217,2006,TRUE
+Italy,Australia,Italy,1,FALSE,-192,282,595,2006,TRUE
+Portugal,Netherlands,Portugal,1,FALSE,212,206,144,2006,TRUE
+England,Ecuador,England,1,FALSE,-204,286,637,2006,TRUE
+Argentina,Mexico,Argentina,1,TRUE,-278,326,918,2006,TRUE
+Germany,Sweden,Germany,2,FALSE,-164,266,488,2006,TRUE
+Switzerland,South Korea,Switzerland,2,FALSE,-103,197,343,2006,FALSE
+Togo,France,France,-2,FALSE,1530,666,-769,2006,FALSE
+Saudi Arabia,Spain,Spain,-1,FALSE,1603,606,-667,2006,FALSE
+Ukraine,Tunisia,Ukraine,1,FALSE,-169,271,503,2006,FALSE
+Croatia,Australia,Australia,0,FALSE,120,229,210,2006,FALSE
+Japan,Brazil,Brazil,-3,FALSE,1100,500,-500,2006,FALSE
+Czech Republic,Italy,Italy,-2,FALSE,295,215,-105,2006,FALSE
+France,Switzerland,Switzerland,0,FALSE,-154,240,480,2006,FALSE
+Australia,Japan,Australia,2,FALSE,150,215,179,2006,FALSE
+Mexico,Iran,Mexico,2,FALSE,-179,265,587,2006,FALSE
+Serbia and Montenegro,Netherlands,Netherlands,-1,FALSE,315,222,-106,2006,FALSE
+Argentina,Ivory Coast,Argentina,1,FALSE,-167,259,543,2006,FALSE
+Trinidad & Tobago,Sweden,Sweden,0,FALSE,1134,415,-345,2006,FALSE
+England,Paraguay,England,1,FALSE,-152,242,484,2006,FALSE
+Poland,Ecuador,Ecuador,-2,FALSE,-111,225,275,2006,FALSE
+Germany,Costa Rica,Germany,2,FALSE,-400,417,1123,2006,FALSE
+Netherlands,Spain,Spain,-1,TRUE,290,238,102,2010,TRUE
+Uruguay,Germany,Germany,-1,FALSE,286,268,-108,2010,TRUE
+Germany,Spain,Spain,-1,FALSE,181,238,152,2010,TRUE
+Uruguay,Netherlands,Netherlands,-1,FALSE,468,254,-145,2010,TRUE
+Paraguay,Spain,Spain,-1,FALSE,800,326,-238,2010,TRUE
+Argentina,Germany,Germany,-4,FALSE,131,229,219,2010,TRUE
+Uruguay,Ghana,X,0,FALSE,-116,237,351,2010,TRUE
+Netherlands,Brazil,Netherlands,1,FALSE,309,227,100,2010,TRUE
+Spain,Portugal,Spain,1,FALSE,100,223,319,2010,TRUE
+Paraguay,Japan,X,0,FALSE,120,217,260,2010,TRUE
+Brazil,Chile,Brazil,3,FALSE,-189,282,599,2010,TRUE
+Netherlands,Slovakia,Netherlands,1,FALSE,-256,350,863,2010,TRUE
+Argentina,Mexico,Argentina,2,FALSE,-164,273,524,2010,TRUE
+Germany,England,Germany,3,FALSE,197,206,160,2010,TRUE
+USA,Ghana,Ghana,-1,TRUE,141,210,222,2010,TRUE
+Uruguay,South Korea,Uruguay,1,FALSE,-119,234,390,2010,TRUE
+Chile,Spain,Spain,-1,FALSE,589,315,-196,2010,FALSE
+Switzerland,Honduras,Honduras,0,FALSE,-182,301,562,2010,FALSE
+North Korea,Ivory Coast,Ivory Coast,-3,FALSE,835,399,-286,2010,FALSE
+Portugal,Brazil,Brazil,0,FALSE,250,192,138,2010,FALSE
+Cameroon,Netherlands,Netherlands,-1,FALSE,453,281,-154,2010,FALSE
+Denmark,Japan,Japan,-2,FALSE,125,224,237,2010,FALSE
+Paraguay,New Zealand,New Zealand,0,FALSE,-256,348,852,2010,FALSE
+Slovakia,Italy,Slovakia,1,FALSE,597,284,-182,2010,FALSE
+Australia,Serbia,Australia,1,FALSE,346,259,-120,2010,FALSE
+Ghana,Germany,Germany,-1,FALSE,680,334,-222,2010,FALSE
+Slovenia,England,England,-1,FALSE,707,330,-222,2010,FALSE
+USA,Algeria,USA,1,FALSE,-115,260,322,2010,FALSE
+Greece,Argentina,Argentina,-2,FALSE,635,324,-208,2010,FALSE
+Nigeria,South Korea,South Korea,0,FALSE,193,229,147,2010,FALSE
+France,South Africa,South Africa,-1,FALSE,108,248,254,2010,FALSE
+Mexico,Uruguay,Uruguay,-1,FALSE,274,-104,265,2010,FALSE
+Spain,Honduras,Spain,2,FALSE,-833,777,2325,2010,FALSE
+Chile,Switzerland,Chile,1,FALSE,117,218,267,2010,FALSE
+Portugal,North Korea,Portugal,7,FALSE,-270,348,932,2010,FALSE
+Brazil,Ivory Coast,Brazil,2,FALSE,-137,248,442,2010,FALSE
+Italy,New Zealand,New Zealand,0,FALSE,-455,488,1573,2010,FALSE
+Slovakia,Paraguay,Paraguay,-2,FALSE,287,224,106,2010,FALSE
+Cameroon,Denmark,Denmark,-1,FALSE,189,220,156,2010,FALSE
+Ghana,Australia,Australia,0,FALSE,137,215,223,2010,FALSE
+Netherlands,Japan,Netherlands,1,FALSE,-227,316,794,2010,FALSE
+England,Algeria,Algeria,0,FALSE,-435,488,1493,2010,FALSE
+Slovenia,USA,USA,0,FALSE,275,222,112,2010,FALSE
+Germany,Serbia,Serbia,-1,FALSE,-156,265,474,2010,FALSE
+France,Mexico,Mexico,-2,FALSE,108,215,295,2010,FALSE
+Greece,Nigeria,Greece,1,FALSE,279,218,112,2010,FALSE
+Argentina,South Korea,Argentina,3,FALSE,-196,287,659,2010,FALSE
+South Africa,Uruguay,Uruguay,-3,FALSE,237,202,138,2010,FALSE
+Spain,Switzerland,Switzerland,-1,FALSE,-370,430,1332,2010,FALSE
+Honduras,Chile,Chile,-1,FALSE,480,246,-143,2010,FALSE
+Brazil,North Korea,Brazil,1,FALSE,-1000,861,3167,2010,FALSE
+Ivory Coast,Portugal,Portugal,0,FALSE,296,220,106,2010,FALSE
+New Zealand,Slovakia,Slovakia,0,FALSE,665,294,-200,2010,FALSE
+Italy,Paraguay,Paraguay,0,FALSE,118,204,282,2010,FALSE
+Japan,Cameroon,Japan,1,FALSE,266,212,119,2010,FALSE
+Netherlands,Denmark,Netherlands,2,FALSE,-196,301,630,2010,FALSE
+Germany,Australia,Germany,4,FALSE,-192,289,634,2010,FALSE
+Serbia,Ghana,Ghana,-1,FALSE,100,222,307,2010,FALSE
+Algeria,Slovenia,Slovenia,-1,FALSE,273,214,114,2010,FALSE
+England,USA,USA,0,FALSE,-196,312,600,2010,FALSE
+Argentina,Nigeria,Argentina,1,FALSE,-256,358,796,2010,FALSE
+South Korea,Greece,South Korea,2,FALSE,172,200,187,2010,FALSE
+Uruguay,France,France,0,FALSE,257,215,121,2010,FALSE
+South Africa,Mexico,Mexico,0,FALSE,196,213,156,2010,FALSE
+Germany,Argentina,Germany,1,TRUE,139,227,227,2014,TRUE
+Brazil,Netherlands,Netherlands,-3,FALSE,114,268,237,2014,TRUE
+Netherlands,Argentina,X,0,FALSE,209,220,152,2014,TRUE
+Brazil,Germany,Germany,-6,FALSE,163,220,196,2014,TRUE
+Netherlands,Costa Rica,X,0,FALSE,-192,318,615,2014,TRUE
+Argentina,Belgium,Argentina,1,FALSE,-101,239,321,2014,TRUE
+Brazil,Colombia,Brazil,1,FALSE,-132,279,393,2014,TRUE
+France,Germany,Germany,-1,FALSE,181,216,177,2014,TRUE
+Belgium,USA,Belgium,1,TRUE,100,239,309,2014,TRUE
+Argentina,Switzerland,Argentina,1,TRUE,-175,317,532,2014,TRUE
+Germany,Algeria,Germany,1,TRUE,-312,465,917,2014,TRUE
+France,Nigeria,France,2,FALSE,-244,366,771,2014,TRUE
+Costa Rica,Greece,X,0,FALSE,173,208,192,2014,TRUE
+Netherlands,Mexico,Netherlands,1,FALSE,116,234,267,2014,TRUE
+Colombia,Uruguay,Colombia,2,FALSE,114,233,270,2014,TRUE
+Brazil,Chile,X,0,FALSE,-192,351,533,2014,TRUE
+Algeria,Russia,Russia,0,FALSE,269,267,102,2014,FALSE
+South Korea,Belgium,Belgium,-1,FALSE,359,254,-118,2014,FALSE
+Portugal,Ghana,Portugal,1,FALSE,-132,383,281,2014,FALSE
+USA,Germany,Germany,-1,FALSE,718,213,-147,2014,FALSE
+Ecuador,France,France,0,FALSE,451,316,-161,2014,FALSE
+Honduras,Switzerland,Switzerland,-3,FALSE,610,348,-208,2014,FALSE
+Bosnia & Herzegovina,Iran,Bosnia & Herzegovina,2,FALSE,120,257,229,2014,FALSE
+Nigeria,Argentina,Argentina,-1,FALSE,867,325,-233,2014,FALSE
+Greece,Ivory Coast,Greece,1,FALSE,298,258,-104,2014,FALSE
+Japan,Colombia,Colombia,-3,FALSE,245,273,108,2014,FALSE
+Costa Rica,England,England,0,FALSE,348,301,-132,2014,FALSE
+Italy,Uruguay,Uruguay,-1,FALSE,154,250,177,2014,FALSE
+Cameroon,Brazil,Brazil,-3,FALSE,2175,852,-769,2014,FALSE
+Croatia,Mexico,Mexico,-2,FALSE,172,247,162,2014,FALSE
+Australia,Spain,Spain,-3,FALSE,713,430,-270,2014,FALSE
+Netherlands,Chile,Netherlands,2,FALSE,170,250,161,2014,FALSE
+USA,Portugal,Portugal,0,FALSE,357,312,-135,2014,FALSE
+South Korea,Algeria,Algeria,-2,FALSE,150,229,196,2014,FALSE
+Belgium,Russia,Belgium,1,FALSE,122,235,244,2014,FALSE
+Nigeria,Bosnia & Herzegovina,Nigeria,1,FALSE,333,263,-115,2014,FALSE
+Germany,Ghana,Ghana,0,FALSE,-303,461,809,2014,FALSE
+Argentina,Iran,Argentina,1,FALSE,-714,760,2096,2014,FALSE
+Honduras,Ecuador,Ecuador,-1,FALSE,479,323,-169,2014,FALSE
+Switzerland,France,France,-3,FALSE,359,252,-116,2014,FALSE
+Italy,Costa Rica,Costa Rica,-1,FALSE,-172,303,547,2014,FALSE
+Japan,Greece,Greece,0,FALSE,142,236,204,2014,FALSE
+Uruguay,England,Uruguay,1,FALSE,281,278,-106,2014,FALSE
+Colombia,Ivory Coast,Colombia,1,FALSE,102,254,276,2014,FALSE
+Cameroon,Croatia,Croatia,-4,FALSE,453,293,-152,2014,FALSE
+Spain,Chile,Chile,-2,FALSE,-172,343,451,2014,FALSE
+Australia,Netherlands,Netherlands,-1,FALSE,1215,561,-435,2014,FALSE
+Russia,South Korea,South Korea,0,FALSE,-122,260,366,2014,FALSE
+Brazil,Mexico,Mexico,0,FALSE,-286,430,819,2014,FALSE
+Belgium,Algeria,Belgium,1,FALSE,-303,425,921,2014,FALSE
+Ghana,USA,USA,-1,FALSE,142,243,198,2014,FALSE
+Iran,Nigeria,Nigeria,0,FALSE,379,248,-119,2014,FALSE
+Germany,Portugal,Germany,4,FALSE,108,252,266,2014,FALSE
+Argentina,Bosnia & Herzegovina,Argentina,1,FALSE,-333,466,953,2014,FALSE
+France,Honduras,France,3,FALSE,-370,504,1118,2014,FALSE
+Switzerland,Ecuador,Switzerland,1,FALSE,144,223,211,2014,FALSE
+Ivory Coast,Japan,Ivory Coast,1,FALSE,172,231,169,2014,FALSE
+England,Italy,Italy,-1,FALSE,150,200,227,2014,FALSE
+Uruguay,Costa Rica,Costa Rica,-2,FALSE,-227,326,790,2014,FALSE
+Colombia,Greece,Colombia,3,FALSE,-116,227,415,2014,FALSE
+Chile,Australia,Chile,2,FALSE,-238,348,777,2014,FALSE
+Spain,Netherlands,Netherlands,-4,FALSE,-119,239,411,2014,FALSE
+Mexico,Cameroon,Mexico,1,FALSE,118,215,278,2014,FALSE
+Brazil,Croatia,Brazil,2,FALSE,-312,419,1093,2014,FALSE
+France,Croatia,France,2,FALSE,116,206,325,2018,TRUE
+Belgium,England,Belgium,2,FALSE,120,283,224,2018,TRUE
+Croatia,England,Croatia,1,TRUE,290,200,129,2018,TRUE
+France,Belgium,France,1,FALSE,161,214,206,2018,TRUE
+Russia,Croatia,X,0,FALSE,309,218,114,2018,TRUE
+Sweden,England,England,-2,FALSE,423,240,-118,2018,TRUE
+Brazil,Belgium,Belgium,-1,FALSE,112,246,275,2018,TRUE
+Uruguay,France,France,-2,FALSE,373,213,102,2018,TRUE
+Colombia,England,X,0,FALSE,313,213,114,2018,TRUE
+Sweden,Switzerland,Sweden,1,FALSE,243,196,152,2018,TRUE
+Belgium,Japan,Belgium,1,FALSE,-233,370,768,2018,TRUE
+Brazil,Mexico,Brazil,2,FALSE,-208,348,676,2018,TRUE
+Croatia,Denmark,X,0,FALSE,-101,224,366,2018,TRUE
+Spain,Russia,X,0,FALSE,-167,315,539,2018,TRUE
+Uruguay,Portugal,Uruguay,1,FALSE,209,199,173,2018,TRUE
+France,Argentina,France,1,FALSE,145,213,234,2018,TRUE
+England,Belgium,Belgium,-1,FALSE,147,184,272,2018,FALSE
+Panama,Tunisia,Tunisia,-1,FALSE,337,278,-114,2018,FALSE
+Japan,Poland,Poland,-1,FALSE,194,214,173,2018,FALSE
+Senegal,Colombia,Colombia,-1,FALSE,419,281,-132,2018,FALSE
+Serbia,Brazil,Brazil,-2,FALSE,659,368,-213,2018,FALSE
+Switzerland,Costa Rica,Costa Rica,0,FALSE,-167,269,659,2018,FALSE
+Mexico,Sweden,Sweden,-3,FALSE,121,240,259,2018,FALSE
+South Korea,Germany,South Korea,2,FALSE,1839,739,-588,2018,FALSE
+Iceland,Croatia,Croatia,-1,FALSE,344,299,-122,2018,FALSE
+Nigeria,Argentina,Argentina,-1,FALSE,498,426,-200,2018,FALSE
+Australia,Peru,Peru,-2,FALSE,193,254,148,2018,FALSE
+Denmark,France,France,0,FALSE,432,181,108,2018,FALSE
+Iran,Portugal,Portugal,0,FALSE,540,309,-167,2018,FALSE
+Spain,Morocco,Morocco,0,FALSE,-278,417,927,2018,FALSE
+Saudi Arabia,Egypt,Saudi Arabia,1,FALSE,447,263,-130,2018,FALSE
+Uruguay,Russia,Uruguay,3,FALSE,179,208,191,2018,FALSE
+Poland,Colombia,Colombia,-3,FALSE,250,246,121,2018,FALSE
+Japan,Senegal,Senegal,0,FALSE,222,199,164,2018,FALSE
+England,Panama,England,5,FALSE,-455,547,1764,2018,FALSE
+Germany,Sweden,Germany,1,FALSE,-213,365,661,2018,FALSE
+South Korea,Mexico,Mexico,-1,FALSE,474,281,-143,2018,FALSE
+Belgium,Tunisia,Belgium,3,FALSE,-303,419,1107,2018,FALSE
+Serbia,Switzerland,Switzerland,-1,FALSE,175,206,195,2018,FALSE
+Nigeria,Iceland,Nigeria,2,FALSE,198,209,172,2018,FALSE
+Brazil,Costa Rica,Brazil,2,FALSE,-476,569,1795,2018,FALSE
+Argentina,Croatia,Croatia,-3,FALSE,108,229,311,2018,FALSE
+France,Peru,France,1,FALSE,-164,287,559,2018,FALSE
+Denmark,Australia,Australia,0,FALSE,-110,243,367,2018,FALSE
+Iran,Spain,Spain,-1,FALSE,1805,585,-476,2018,FALSE
+Uruguay,Saudi Arabia,Uruguay,1,FALSE,-455,574,1714,2018,FALSE
+Portugal,Morocco,Portugal,1,FALSE,-143,270,501,2018,FALSE
+Russia,Egypt,Russia,2,FALSE,-105,257,330,2018,FALSE
+Poland,Senegal,Senegal,-1,FALSE,150,206,234,2018,FALSE
+Colombia,Japan,Japan,-1,FALSE,-112,234,409,2018,FALSE
+Tunisia,England,England,-1,FALSE,744,320,-204,2018,FALSE
+Belgium,Panama,Belgium,3,FALSE,-455,579,1678,2018,FALSE
+Sweden,South Korea,Sweden,1,FALSE,127,204,292,2018,FALSE
+Brazil,Switzerland,Switzerland,0,FALSE,-208,343,708,2018,FALSE
+Germany,Mexico,Mexico,-1,FALSE,-204,355,620,2018,FALSE
+Costa Rica,Serbia,Serbia,-1,FALSE,434,243,-119,2018,FALSE
+Croatia,Nigeria,Croatia,2,FALSE,-147,278,514,2018,FALSE
+Peru,Denmark,Denmark,-1,FALSE,271,211,131,2018,FALSE
+Argentina,Iceland,Iceland,0,FALSE,-303,443,1027,2018,FALSE
+France,Australia,France,1,FALSE,-370,622,939,2018,FALSE
+Portugal,Spain,Spain,0,FALSE,338,227,104,2018,FALSE
+Morocco,Iran,Iran,-1,FALSE,123,198,316,2018,FALSE
+Egypt,Uruguay,Uruguay,-1,FALSE,736,309,-192,2018,FALSE
+Russia,Saudi Arabia,Russia,5,FALSE,-217,334,807,2018,FALSE
